@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+
+1. This project has been created to replicate the Netflix UI, it's user experience.
+2. We can get the trending movies and as well as different genres.
+3. Movie trailers can be seen - in view.
 
 ## Available Scripts
 
